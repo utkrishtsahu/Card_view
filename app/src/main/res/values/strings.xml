@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Card_view</string>
+    <string name="textView">Lila  invited you to care take of Adrian and Ethan.</string>
+    <string name="textView1">Yesterday,6:43 pm</string>
+    <string name="Refresh_data">Ole has been denied as Adrians contact.</string>
+    <string name="Overview_card">Monitor recent activities and phone status click card to setup up restrictions for the device.</string>
+    <string name="Quick_lock">Click padlock icon to instantly lock or unlock device.</string>
+    <string name="Latest_activities">Track latest activities such as calls,texts and app usage as well as arrival and departure from pre-defined areas.</string>
+    <string name="add_child">Ole has been approved as Adrians contact.</string>
+    <string name="geo_fencing"></string>
+</resources>
